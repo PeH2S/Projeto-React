@@ -10,15 +10,12 @@ const Home = () => {
             </p>
             <nav>
                 <ul style={{ listStyleType: 'none', padding: 0 }}>
-                    <li style={styles.listItem}>
-                        <Link to="/Ativ01" style={styles.link}>Semana 1 - Introdução</Link>
-                    </li>
-                    <li style={styles.listItem}>
-                        <Link to="/Ativ02" style={styles.link}>Semana 2 - Avançando</Link>
-                    </li>
-                    <li style={styles.listItem}>
-                        <Link to="/Ativ03" style={styles.link}>Semana 3 - Atividades</Link>
-                    </li>
+                
+                   <li><Link to="/Ativ01">Semana 1 – Introdução</Link></li>
+                   <li><Link to="/Ativ02">Semana 2 – Formulários</Link></li>
+                   <li><Link to="/Ativ03">Semana 3 – Listas</Link></li>
+                   <li><Link to="/Ativ04">Semana 4 – Componentes e Interatividade</Link></li>
+
                 </ul>
             </nav>
         </div>
