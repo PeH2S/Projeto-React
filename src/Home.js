@@ -14,7 +14,7 @@ const Home = () => {
                    <li><Link to="/Ativ01">Semana 1 – Introdução</Link></li>
                    <li><Link to="/Ativ02">Semana 2 – Formulários</Link></li>
                    <li><Link to="/Ativ03">Semana 3 – Listas</Link></li>
-                   {/* <li><Link to="/Ativ04">Semana 4 – Componentes e Interatividade</Link></li> */}
+                   <li><Link to="/Ativ04">Semana 4 – Componentes e Interatividade</Link></li>
 
                 </ul>
             </nav>
