@@ -15,6 +15,7 @@ const Home = () => {
                    <li><Link to="/Ativ02">Semana 2 – Formulários</Link></li>
                    <li><Link to="/Ativ03">Semana 3 – Listas</Link></li>
                    <li><Link to="/Ativ04">Semana 4 – Componentes e Interatividade</Link></li>
+                   <li><Link to="/Ativ12">Semana 5 – Gerenciamento de Estado em React</Link></li>
 
                 </ul>
             </nav>

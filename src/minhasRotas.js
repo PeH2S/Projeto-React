@@ -4,6 +4,7 @@ import Ativ01         from './Ativ01';
 import Ativ02         from './Ativ02';
 import Ativ03         from './Ativ03';
 import Ativ04         from './Ativ04';
+import Ativ12         from './Ativ12';
 import Letreiro       from './Letreiro';
 import Relogio        from './Relogio';
 
@@ -16,6 +17,7 @@ export default function MinhasRotas() {
         <Route path="/Ativ02"  element={<Ativ02 />} />
         <Route path="/Ativ03"  element={<Ativ03 />} />
         <Route path="/Ativ04"  element={<Ativ04 />} />
+        <Route path="/ativ12" element={<Ativ12 />} />
         <Route path="/letreiro" element={<Letreiro />} />
         <Route path="/relogio"  element={<Relogio />} />
       </Routes>
